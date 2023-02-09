@@ -1,1 +1,7 @@
-da
+Para hacer el Stream Deck hemos usado un Arduino Uno, 6 botones y cables para conectarlo. 
+El arduino uno no tiene posibilidad a conectarse a el ordenador y usarlo como keyboard, asi que hay q reprogramar el chip.
+Para reprogramar el chip os dejo aqui una guia la cual enseña como subirle la libreria: https://www.youtube.com/watch?v=3BmDkSvxLqU 
+Luego ya subido el programa y reprogramado el chip tienes que hacer los atajos de teclado. 
+Para los atajos de teclado es muy sencillo: primero tienes que darle a un acceso directo click derecho y darle a propiedades, le das a documento web y teclado de metodo abreviado le das a el boton.
+Sino, os dejo aqui otro link para seguir los pasos: https://www.youtube.com/watch?v=j0g90W_dN1o
+Si sigues los pasos correctamente ya podras disfrutar de tu Stream Deck casero. 
