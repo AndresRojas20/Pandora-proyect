@@ -1,5 +1,9 @@
 # Pandora-proyect
 En este github vas a encontrar un proyecto creado por Nosle Roberto, Jone Rodriguez y Andrés Rojas. El proyecto consiste en un stream deck con arduino uno y un stream ampli hecho con una pcb. 
+![1676446091989](https://user-images.githubusercontent.com/122517456/219012713-90233ecd-2f1e-4f49-875b-6b22667ecf79.jpg)
+
+
+
 
 StreamAmp:
 El StreamAmpli es una placa que hemos creado para amplificar el sonido de nuestro ordenador. 
