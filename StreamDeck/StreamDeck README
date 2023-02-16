@@ -5,3 +5,7 @@ Luego ya subido el programa y reprogramado el chip tienes que hacer los atajos d
 Para los atajos de teclado es muy sencillo: primero tienes que darle a un acceso directo click derecho y darle a propiedades, le das a documento web y teclado de metodo abreviado le das a el boton.
 Sino, os dejo aqui otro link para seguir los pasos: https://www.youtube.com/watch?v=j0g90W_dN1o
 Si sigues los pasos correctamente ya podras disfrutar de tu Stream Deck casero. 
+
+El archivo de ColorPalette.ino es para implementarle unas leds. 
+Para implementarle las leds teneis que poner un arduino nano y tener unas leds Neon.
+Esto le da mayor estetica y es más gamer para mejorar tu setup.
